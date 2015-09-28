@@ -4,3 +4,4 @@
 - November
   - Github?
 - December
+  - Holiday potluck
